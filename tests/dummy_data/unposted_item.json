@@ -1,0 +1,13 @@
+{
+    "body": "#Example",
+    "coediting": false,
+    "gist": false,
+    "group_url_name": "dev",
+    "private": true,
+    "tags": [{
+        "name": "test",
+        "versions": ["0.0.1"]
+    }],
+    "title": "dummytitle",
+    "tweet": false
+}
